@@ -33,14 +33,13 @@ https://blog.naver.com/hoggaz/222268088827
 
 
 
-<br/>
 ### 3. 연락처 수정
 
 <img src ="https://user-images.githubusercontent.com/74044212/111415158-b464a800-8724-11eb-97d0-40fea8d0d1c5.png" width="300px" height="500px" />
 <img src ="https://user-images.githubusercontent.com/74044212/111414918-34d6d900-8724-11eb-829e-95261febbb5a.png" width="300px" height="500px" />
 
 
-<br/>
+
 ### 4. 연락처 삭제
 <img src ="https://user-images.githubusercontent.com/74044212/111414974-5768f200-8724-11eb-89d0-b11d6a1b93d6.png" width="300px" height="500px" />
 <img src ="https://user-images.githubusercontent.com/74044212/111414985-5f289680-8724-11eb-9686-d9139d57b740.png" width="300px" height="500px" />
