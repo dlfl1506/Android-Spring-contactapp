@@ -10,6 +10,11 @@ spring:
     password: 
 ```
 
+## 서버세팅 
+https://github.com/dlfl1506/contactapp-server
 
+https://blog.naver.com/hoggaz/222268088827
+
+### 주소 참고
 
 
