@@ -20,6 +20,26 @@ https://blog.naver.com/hoggaz/222268088827
 
 ## ✔ 기능 
 
-### 1. 
+### 1. 연락처 목록 뿌리기 
+
+<img src ="https://user-images.githubusercontent.com/74044212/111414477-6bf8ba80-8723-11eb-8c10-9b9b9c7882a9.png" width="300px" height="500px" />
+
+
+### 2. 연락처 등록
+
+<img src ="https://user-images.githubusercontent.com/74044212/111414763-e88b9900-8723-11eb-91a8-c055bc083fec.png" width="300px" height="500px" />
+<img src ="https://user-images.githubusercontent.com/74044212/111414776-f04b3d80-8723-11eb-88f6-1af4d652a8d8.png" width="300px" height="500px" />
+
+
+### 3. 연락처 수정
+
+<img src ="https://user-images.githubusercontent.com/74044212/111414900-2e486180-8724-11eb-88e4-5d360c3e8b93.png" width="300px" height="500px" />
+<img src ="https://user-images.githubusercontent.com/74044212/111414918-34d6d900-8724-11eb-829e-95261febbb5a.png" width="300px" height="500px" />
+
+
+### 4. 연락처 삭제
+<img src ="https://user-images.githubusercontent.com/74044212/111414974-5768f200-8724-11eb-89d0-b11d6a1b93d6.png" width="300px" height="500px" />
+<img src ="https://user-images.githubusercontent.com/74044212/111414985-5f289680-8724-11eb-9686-d9139d57b740.png" width="300px" height="500px" />
+
 
 
